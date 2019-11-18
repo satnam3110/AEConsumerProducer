@@ -11,4 +11,6 @@ This is just an example how producer/consumer works within kafka broker.
 14:00:30.393 [main] INFO  com.ae.producer.SenderAE - sending payload='Hello Spring Kafka American_Eagle.'
 14:00:30.532 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  com.ae.consumer.ReceiverAE - received payload='Hello Spring Kafka American_Eagle.'
 
+
+As you can see in the above output how sender class com.ae.producer.SenderAE sent payload 'Hello Spring Kafka American_Eagle.' is received by the consumer class com.ae.consumer.ReceiverAE using embeded kafka broker.
 Let me know if need any further help.
