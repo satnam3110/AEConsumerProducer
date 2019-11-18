@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: AEConsumerProducer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ubuntu
+Implementation-Vendor-Id: com.testae
+Build-Jdk: 1.8.0_231
+Implementation-URL: https://codenotfound.com/spring-kafka-consumer-pro
+ ducer-example.html
+Created-By: Maven Integration for Eclipse
+
